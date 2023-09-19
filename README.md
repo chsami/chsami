@@ -1,23 +1,22 @@
 <!--<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=0yze7yareh19u7dy1kjabm97m&cover_image=true&theme=default&bar_color_cover=true" width="200"/>
 -->
-![Header](./data/github-header-image.png)
+<h3 align="center">
 
-<!-- ## Hi 👋, I am Abhishek Choudhary, a technology ❤ enthusiast. -->
-<!-- <img  src="data/borderseperator.gif"> -->
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+
+  <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
+  Welcome to chsami's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lost_introvert) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek_choudhary.99/) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/abhishek-choudharys/blender-projects/blob/main/README.md) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:abhishek931999@gmail.com) 
-![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/chsami/chsami?style=for-the-badge)
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
-<!-- <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
-<p><strong>Everything else:</strong></p>
-<p>I am a final year Computer Engineering student at Thapar Institute of Engineering and Technology. I like learning and creating stuff. </p>
-<br/> -->
 <p>
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
-<!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
 - 🔭 I’m currently working as a Freelance .NET Software Engineer.
 - 🌱 I’m currently learning about Java and Angular.  I'm working on a automated client for a game called oldschool runescape. This content is intended for educational purposes only and is solely meant for the purpose of learning Java/Kotlin.
 - 💬 Ask me just about anything. I am happy to help.
