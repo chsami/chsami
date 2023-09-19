@@ -15,52 +15,15 @@
 ![Visits Badge](https://badges.pufler.dev/visits/chsami/chsami?style=for-the-badge)
 
 <p>
-<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
+
 
 - 🔭 I’m currently working as a Freelance .NET Software Engineer.
-- 🌱 I’m currently learning about Java and Angular.  I'm working on a automated client for a game called oldschool runescape. This content is intended for educational purposes only and is solely meant for the purpose of learning Java/Kotlin.
+- 🌱 I’m currently learning about Java and Angular.  I'm working on an automated client for a game called oldschool runescape. This content is intended for educational purposes only and is solely meant for the purpose of learning Java/Kotlin.
 - 💬 Ask me just about anything. I am happy to help.
 
 <br/>
 <br/>
 </p>
-
-<!-- [![@abhishek-choudharys' Holopin board](https://holopin.me/abhishekchoudhary)](https://holopin.io/@abhishekchoudhary) -->
-
-<!-- ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/abhishek-choudharys/abhishek-choudharys/blob/output/github-contribution-grid-snake.svg) -->
-  
-<!-- ## Stuff I do/know 👨‍💻 🛠:
-</br>
-<p align="center"> -->
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<!-- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg" alt="AI" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg" alt="datascience" width="180" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/qt.svg" alt="qt" width="85" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html5"  width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/r.svg" alt="r" width="90" hight="50">
-
-</br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" width="110" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell" width="170" hight="50">
-</br>
-
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg" alt="codechef" width="160" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="edge" width="140" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" width="150" hight="50">
-</br>
-<i>I plan to add a lot more.</i> -->
-<!--
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="email" width="115" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/outlook.svg" alt="outlook" width="130" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="telegram" width="140" hight="50">
--->
-<!-- </p> -->
 
 ## Stuff I did ⏳:
 </br>
