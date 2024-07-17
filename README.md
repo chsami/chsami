@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working as a Freelance .NET Software Engineer.
-- 🌱 I’m currently learning about Java and Angular.  I'm working on an automated client for a game called oldschool runescape. This content is intended for educational purposes only and is solely meant for the purpose of learning Java/Kotlin.
+- 🌱 I’m currently learning about Cloud AI (Azure AI Search).  I'm working on an automated client for a game called oldschool runescape. This content is intended for educational purposes only and is solely meant for the purpose of learning Java/Kotlin.
 - 💬 Ask me just about anything. I am happy to help.
 
 <br/>
