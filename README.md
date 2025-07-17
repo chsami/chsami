@@ -12,7 +12,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Visits Badge]([https://badges.pufler.dev/visits/chsami/chsami?style=for-the-badge](https://komarev.com/ghpvc/?username=chsami))
+<img src="https://komarev.com/ghpvc/?username=chsami" />
 
 <p>
 
