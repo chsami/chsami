@@ -17,7 +17,7 @@
 <p>
 
 
-- 🔭 I’m currently working as a Freelance .NET Software Engineer.
+- 🔭 I’m currently working as a Freelance AI/.NET Software Engineer.
 - 🌱 Follow my developer's journey on https://chsami.com
 
 <br/>
